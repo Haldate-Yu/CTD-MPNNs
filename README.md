@@ -1,2 +1,2 @@
 # CTD-MPNNs
-Commute Time Enhanced Graph Neural Networks for Graph Classitication
+Implementation for paper: Commute Time Enhanced Graph Neural Networks for Graph Classification
